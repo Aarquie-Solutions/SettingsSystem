@@ -1,0 +1,7 @@
+{
+  "name": "com.aarquiesolutions.settingsystem",
+  "displayName": "Settings System",
+  "version": "1.0.0",
+  "description": "Settings system to save preference.",
+  "type": "module"
+}
